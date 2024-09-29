@@ -39,7 +39,7 @@ The results of clustering and topic extraction are compared to identify any comm
   - Topic Breakdown: Each topic will be described with its most significant words and a brief interpretation of what the topic represents.
   - Topic Personas: Similar to clusters, personas for each topic will be analyzed based on the underlying user discussions.
 
-**Comparative Insights:**
+**Comparative Insights:** <br>
 A side-by-side comparison of the results from clustering and topic extraction will be made. Interesting insights, such as overlapping themes, differences in user personas, and unique findings from each method, will be highlighted.
 
 ## Conclusion
