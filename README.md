@@ -33,7 +33,8 @@ The results of clustering and topic extraction are compared to identify any comm
 ## Results and Analysis
 **Clustering Results:**
     - Silhouette Scores: A comparison of silhouette scores for different cluster values (k) will be provided, justifying the optimal number of clusters.
-    - Cluster Personas: A detailed breakdown of the personas for each cluster, including key themes, language patterns, and sentiments, will be presented.<br>
+    - Cluster Personas: A detailed breakdown of the personas for each cluster, including key themes, language patterns, and sentiments, will be presented.
+    <br>
 **Topic Extraction Results:**
   - Topic Breakdown: Each topic will be described with its most significant words and a brief interpretation of what the topic represents.
   - Topic Personas: Similar to clusters, personas for each topic will be analyzed based on the underlying user discussions.<br>
