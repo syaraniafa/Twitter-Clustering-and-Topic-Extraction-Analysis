@@ -1,6 +1,6 @@
 # Twitter Clustering and Topic Extraction Analysis on BSI Ransomware Case
 
-## Case Study - Final Examination
+## Case Study
 In 2023, Bank Syariah Indonesia (BSI) faced a ransomware attack, disrupting its national operations. This incident drew significant attention on social media, especially Twitter (X), where users shared their opinions and responses. In this project, the goal is to analyze tweets related to the BSI ransomware incident using clustering and topic extraction techniques. The results will provide insights into what users discussed and how they responded to the event.
 
 ## Project Overview
